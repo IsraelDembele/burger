@@ -18,9 +18,17 @@ body {
   .undvorElem{
     display: inline-block; 
     width: 20%;
-    margin: 10px;
+    margin: 10px; 
+    background-color: rgba(255, 251, 0, 0.897); 
+    border-radius: 1em; 
+    
   }
   .undvor-title{
     display: inline-block;
     width: 60%;
+  } 
+  #submit{
+    background-color:rgba(255, 251, 0, 0.897); 
+    border-radius: 1em;    
+
   }
