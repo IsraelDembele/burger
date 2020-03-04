@@ -38,7 +38,11 @@ body {
 
   } 
   .burgerName{
-   font-size: 2rem;
+   font-size: 2rem; 
+   width: 7%;
+    margin: 8px; 
+    padding: 8px;   
+
 
   }
   
