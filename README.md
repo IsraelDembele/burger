@@ -11,4 +11,4 @@ to run it:
 node server.js
 Now, open the local application on port 8080 at the URL: http://localhost:8080/.
 
-![](/public/asset/img/03-04.png)
+
