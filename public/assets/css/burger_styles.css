@@ -27,7 +27,8 @@ body {
   }
   .undvor-title{
     display: inline-block;
-    width: 60%;
+    width: 40%; 
+    font-size: 3rem;
   } 
   .submit{
     background-color:rgba(255, 251, 0, 0.897); 
@@ -39,9 +40,9 @@ body {
   } 
   .burgerName{
    font-size: 2rem; 
-   width: 7%;
-    margin: 8px; 
-    padding: 8px;   
+   width: 5%;
+    margin: 3px; 
+    padding: 3px;   
 
 
   }
