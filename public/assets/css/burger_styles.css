@@ -46,10 +46,9 @@ body {
 
   } 
 
-  #EatBurger{
-   font-family: fantasy !important; 
-   color: yellow !important; 
-
+  .EatBurger{
+   font-weight: 300; 
+   color: yellow ; 
 
   }
   
