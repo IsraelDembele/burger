@@ -47,9 +47,10 @@ body {
   } 
 
   .EatBurger{
-   font-weight: 300; 
+   font-style: italic; 
    color: yellow ; 
-
+   font-family: 'Libre Baskerville', serif;
+   font-size: 5rem;
   } 
 
 
