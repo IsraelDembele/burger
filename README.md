@@ -13,4 +13,4 @@ Now, open the local application on port 8080 at the URL: http://localhost:8080/.
 
 ## image 
 
-![Picture](https://github.com/israel81boot/burger/tree/master/public/assets/img)
+![](https://github.com/israel81boot/burger/tree/master/public/assets/img)
