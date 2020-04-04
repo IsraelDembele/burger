@@ -13,4 +13,4 @@ Now, open the local application on port 8080 at the URL: http://localhost:8080/.
 
 ## image 
 
-![picture](public/assets/img/03-04%20spaces.png)
+![picture](public/assets/img/%2003-04.png)
